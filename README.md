@@ -15,7 +15,7 @@ These tables list irreducible polynomials of minimal weight (i.e. maximal sparsi
 * [data/minimal_irreducibles_23.txt](data/minimal_irreducibles_23.txt) - $\textrm{GF}(23)$, $1 \le n \le 2000$
 * [data/minimal_irreducibles_29.txt](data/minimal_irreducibles_29.txt) - $\textrm{GF}(29)$, $1 \le n \le 2000$
 
-These tables were generated with a development version of [FLINT](https://flintlib.org), and can easily be extended.
+These tables were generated with a development version of [FLINT](https://flintlib.org) (see https://github.com/flintlib/flint/pull/2417) and can easily be extended by running the ``minimal_irreducibles`` example program.
 
 ```
 $ build/examples/minimal_irreducibles -threads 8 3 1 500
