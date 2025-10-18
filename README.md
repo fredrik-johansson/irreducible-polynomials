@@ -4,9 +4,9 @@
 
 These tables list irreducible polynomials of minimal weight (i.e. maximal sparsity) over $\textrm{GF}(p)$ for every degree $n$ up to the indicated bound, useful if one wants to do efficient arithmetic in $\textrm{GF}(p^n)$ for various large values of $n$. We give just one polynomial for each $n$, even if several candidates with the same minimal weight are available.
 
-* [data/minimal_irreducibles_2.txt](data/minimal_irreducibles_2.txt) - $\textrm{GF}(2)$, $1 \le n \le 6000$
+* [data/minimal_irreducibles_2.txt](data/minimal_irreducibles_2.txt) - $\textrm{GF}(2)$, $1 \le n \le 10000$
 * [data/minimal_irreducibles_3.txt](data/minimal_irreducibles_3.txt) - $\textrm{GF}(3)$, $1 \le n \le 10000$
-* [data/minimal_irreducibles_5.txt](data/minimal_irreducibles_5.txt) - $\textrm{GF}(5)$, $1 \le n \le 6000$
+* [data/minimal_irreducibles_5.txt](data/minimal_irreducibles_5.txt) - $\textrm{GF}(5)$, $1 \le n \le 10000$
 * [data/minimal_irreducibles_7.txt](data/minimal_irreducibles_7.txt) - $\textrm{GF}(7)$, $1 \le n \le 5000$
 * [data/minimal_irreducibles_11.txt](data/minimal_irreducibles_11.txt) - $\textrm{GF}(11)$, $1 \le n \le 5000$
 * [data/minimal_irreducibles_13.txt](data/minimal_irreducibles_13.txt) - $\textrm{GF}(13)$, $1 \le n \le 2000$
