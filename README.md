@@ -7,9 +7,9 @@ These tables list irreducible polynomials of minimal weight (i.e. maximal sparsi
 * [data/minimal_irreducibles_2.txt](data/minimal_irreducibles_2.txt) - $\textrm{GF}(2)$, $1 \le n \le 10000$
 * [data/minimal_irreducibles_3.txt](data/minimal_irreducibles_3.txt) - $\textrm{GF}(3)$, $1 \le n \le 10000$
 * [data/minimal_irreducibles_5.txt](data/minimal_irreducibles_5.txt) - $\textrm{GF}(5)$, $1 \le n \le 10000$
-* [data/minimal_irreducibles_7.txt](data/minimal_irreducibles_7.txt) - $\textrm{GF}(7)$, $1 \le n \le 5000$
+* [data/minimal_irreducibles_7.txt](data/minimal_irreducibles_7.txt) - $\textrm{GF}(7)$, $1 \le n \le 10000$
 * [data/minimal_irreducibles_11.txt](data/minimal_irreducibles_11.txt) - $\textrm{GF}(11)$, $1 \le n \le 5000$
-* [data/minimal_irreducibles_13.txt](data/minimal_irreducibles_13.txt) - $\textrm{GF}(13)$, $1 \le n \le 2000$
+* [data/minimal_irreducibles_13.txt](data/minimal_irreducibles_13.txt) - $\textrm{GF}(13)$, $1 \le n \le 5000$
 * [data/minimal_irreducibles_17.txt](data/minimal_irreducibles_17.txt) - $\textrm{GF}(17)$, $1 \le n \le 2000$
 * [data/minimal_irreducibles_19.txt](data/minimal_irreducibles_19.txt) - $\textrm{GF}(19)$, $1 \le n \le 2000$
 * [data/minimal_irreducibles_23.txt](data/minimal_irreducibles_23.txt) - $\textrm{GF}(23)$, $1 \le n \le 2000$
